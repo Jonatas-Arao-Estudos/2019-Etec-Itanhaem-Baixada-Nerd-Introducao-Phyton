@@ -17,3 +17,11 @@ print('O resultado é: %.2f' % (valor1+valor2))
 '''Métodos com strings
 csharp = " C# é melhor " * 100
 '''
+'''Estrutura de Seleção
+#If
+nro = int(input('Digite um valor inteiro: '))
+if int(nro%2) == 0:
+    print('O número', nro ,'é par')
+else:
+    print('O número', nro ,'é impar')
+'''
